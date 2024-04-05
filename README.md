@@ -6,7 +6,7 @@ Mathematics Division, Institute of Mathematical Sciences and Physics (IMSP)
 
 College of Arts and Sciences, University of the Philippines Los Banos
 
-## Distinct Awards Obtained:
+## Distinct Award Obtained
 2024 IMSP Outstanding Special Problem in Applied Mathematics
 
 
