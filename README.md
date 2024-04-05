@@ -2,9 +2,12 @@
 ## Author: Cristian B. Jetomo
 An undergraduate Special Problem for the degree of BS in Applied Mathematics
 
-Mathematics Division, Institute of Mathematical Sciences and Physics
+Mathematics Division, Institute of Mathematical Sciences and Physics (IMSP)
 
 College of Arts and Sciences, University of the Philippines Los Banos
+
+## Distinct Awards Obtained:
+2024 IMSP Outstanding Special Problem in Applied Mathematics
 
 
 ## Abstract
